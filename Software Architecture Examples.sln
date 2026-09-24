@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIP", "DIP\DIP.csproj", "{1761AB0E-4C4D-4F77-87A1-25B2999BC5CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID", "SOLID", "{8E187712-2E7A-4889-B495-C28BAD73DCEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISP", "ISP\ISP.csproj", "{0FD3D10A-C4D5-4FE0-9538-F89B7E79DCE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCP", "OCP\OCP.csproj", "{33156F64-EBEF-461D-90AB-4CB86832E422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1761AB0E-4C4D-4F77-87A1-25B2999BC5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1761AB0E-4C4D-4F77-87A1-25B2999BC5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1761AB0E-4C4D-4F77-87A1-25B2999BC5CC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1761AB0E-4C4D-4F77-87A1-25B2999BC5CC}.Debug|x64.Build.0 = Debug|Any CPU
+		{1761AB0E-4C4D-4F77-87A1-25B2999BC5CC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1761AB0E-4C4D-4F77-87A1-25B2999BC5CC}.Debug|x86.Build.0 = Debug|Any CPU
+		{1761AB0E-4C4D-4F77-87A1-25B2999BC5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1761AB0E-4C4D-4F77-87A1-25B2999BC5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1761AB0E-4C4D-4F77-87A1-25B2999BC5CC}.Release|x64.ActiveCfg = Release|Any CPU
+		{1761AB0E-4C4D-4F77-87A1-25B2999BC5CC}.Release|x64.Build.0 = Release|Any CPU
+		{1761AB0E-4C4D-4F77-87A1-25B2999BC5CC}.Release|x86.ActiveCfg = Release|Any CPU
+		{1761AB0E-4C4D-4F77-87A1-25B2999BC5CC}.Release|x86.Build.0 = Release|Any CPU
+		{0FD3D10A-C4D5-4FE0-9538-F89B7E79DCE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD3D10A-C4D5-4FE0-9538-F89B7E79DCE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD3D10A-C4D5-4FE0-9538-F89B7E79DCE7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0FD3D10A-C4D5-4FE0-9538-F89B7E79DCE7}.Debug|x64.Build.0 = Debug|Any CPU
+		{0FD3D10A-C4D5-4FE0-9538-F89B7E79DCE7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0FD3D10A-C4D5-4FE0-9538-F89B7E79DCE7}.Debug|x86.Build.0 = Debug|Any CPU
+		{0FD3D10A-C4D5-4FE0-9538-F89B7E79DCE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD3D10A-C4D5-4FE0-9538-F89B7E79DCE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FD3D10A-C4D5-4FE0-9538-F89B7E79DCE7}.Release|x64.ActiveCfg = Release|Any CPU
+		{0FD3D10A-C4D5-4FE0-9538-F89B7E79DCE7}.Release|x64.Build.0 = Release|Any CPU
+		{0FD3D10A-C4D5-4FE0-9538-F89B7E79DCE7}.Release|x86.ActiveCfg = Release|Any CPU
+		{0FD3D10A-C4D5-4FE0-9538-F89B7E79DCE7}.Release|x86.Build.0 = Release|Any CPU
+		{33156F64-EBEF-461D-90AB-4CB86832E422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33156F64-EBEF-461D-90AB-4CB86832E422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33156F64-EBEF-461D-90AB-4CB86832E422}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{33156F64-EBEF-461D-90AB-4CB86832E422}.Debug|x64.Build.0 = Debug|Any CPU
+		{33156F64-EBEF-461D-90AB-4CB86832E422}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{33156F64-EBEF-461D-90AB-4CB86832E422}.Debug|x86.Build.0 = Debug|Any CPU
+		{33156F64-EBEF-461D-90AB-4CB86832E422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33156F64-EBEF-461D-90AB-4CB86832E422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33156F64-EBEF-461D-90AB-4CB86832E422}.Release|x64.ActiveCfg = Release|Any CPU
+		{33156F64-EBEF-461D-90AB-4CB86832E422}.Release|x64.Build.0 = Release|Any CPU
+		{33156F64-EBEF-461D-90AB-4CB86832E422}.Release|x86.ActiveCfg = Release|Any CPU
+		{33156F64-EBEF-461D-90AB-4CB86832E422}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1761AB0E-4C4D-4F77-87A1-25B2999BC5CC} = {8E187712-2E7A-4889-B495-C28BAD73DCEE}
+		{0FD3D10A-C4D5-4FE0-9538-F89B7E79DCE7} = {8E187712-2E7A-4889-B495-C28BAD73DCEE}
+		{33156F64-EBEF-461D-90AB-4CB86832E422} = {8E187712-2E7A-4889-B495-C28BAD73DCEE}
+	EndGlobalSection
+EndGlobal
